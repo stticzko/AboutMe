@@ -4,7 +4,7 @@ This repository contains the source code for the "aboutme" webpage, created by *
 
 ## Description
 
-This webpage serves as a personal landing page for sttikoo, providing various links and information.
+A "**business card**" page with links to social media and a simple game "cat game".
 
 ## Preview
 
