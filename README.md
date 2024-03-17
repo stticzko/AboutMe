@@ -8,7 +8,8 @@ This webpage serves as a personal landing page for sttikoo, providing various li
 
 ## Preview
 
-![About Me Page Preview](![image](https://github.com/stticzko/AboutMe/assets/159261150/55f507d1-25c5-4fc7-9ab0-73bfecf87b7e)
-)
+![previeww](https://github.com/stticzko/AboutMe/assets/159261150/3bab4845-fc95-45df-a95e-70c1c209e4bd)
+
+
 
 
